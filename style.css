@@ -1,0 +1,15 @@
+body{
+    background-color: navajowhite;
+}
+
+#score{
+    float: left;
+    font-size: 35px;
+    margin-left: 25px;
+}
+
+#time{
+    float: right;
+    font-size: 35px;
+    margin-right: 25px;
+}
